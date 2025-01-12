@@ -1,0 +1,3 @@
+displayName = Witchery
+author = TheSponge
+version = 0.1

@@ -1,0 +1,280 @@
+Items: {
+	GlassFlask: {
+		DisplayName: Glass Flask
+		Tooltip: ""
+	}
+
+	OldBroom: {
+		DisplayName: Old Broom
+		Tooltip: Increases brew velocity by {0}
+	}
+
+	BaseBrew: {
+		DisplayName: Base Brew
+		Tooltip: ""
+	}
+
+	AlchemistBelt: {
+		DisplayName: Alchemist Belt
+		Tooltip: Chance to not consume brew {0}
+	}
+
+	GemFlask: {
+		DisplayName: Gem Flask
+		Tooltip: ""
+	}
+
+	CursedHourglass: {
+		DisplayName: Cursed Hourglass
+		Tooltip: ""
+	}
+
+	CursedBeeBrew: {
+		DisplayName: Cursed Bee Brew
+		Tooltip: ""
+	}
+
+	BaseFlask: {
+		DisplayName: Base Flask
+		Tooltip: ""
+	}
+
+	FrostburnBrew: {
+		DisplayName: Frostburn Brew
+		Tooltip: ""
+	}
+
+	SnakeBiteBrew: {
+		DisplayName: Snake Bite Brew
+		Tooltip: ""
+	}
+
+	ShellHelmet: {
+		SetBonus: Increased projectile and throwing speed by {0}
+		DisplayName: Shell Helmet
+		Tooltip: Chance to not consume brew {0}
+	}
+
+	ShellBreastplate: {
+		DisplayName: Shell Breastplate
+		Tooltip: Increased witch damage by {0}
+	}
+
+	ShellLeggings: {
+		DisplayName: Shell Leggings
+		Tooltip: Movespeed increased {0}
+	}
+
+	CrimtaneFlask: {
+		DisplayName: Crimtane Flask
+		Tooltip: ""
+	}
+
+	DemoniteFlask: {
+		DisplayName: Demonite Flask
+		Tooltip: ""
+	}
+
+	ScrollofFortune: {
+		DisplayName: Scroll of Fortune
+		Tooltip: ""
+	}
+
+	JungleFlask: {
+		Tooltip: ""
+		DisplayName: Jungle Flask
+	}
+
+	HellstoneFlask: {
+		Tooltip: ""
+		DisplayName: Hellstone Flask
+	}
+
+	BoneFlask: {
+		Tooltip: ""
+		DisplayName: Bone Flask
+	}
+
+	FungiBreastplate: {
+		DisplayName: Fungi Breastplate
+		Tooltip: ""
+	}
+
+	FungiHelmet: {
+		DisplayName: Fungi Helmet
+		Tooltip: ""
+	}
+
+	FungiLeggings: {
+		DisplayName: Fungi Leggings
+		Tooltip: ""
+	}
+
+	ScrollofHealing: {
+		DisplayName: Scrollof Healing
+		Tooltip: ""
+	}
+
+	MoltenBrew: {
+		DisplayName: Molten Brew
+		Tooltip: ""
+	}
+
+	CursedBloodBrew: {
+		DisplayName: Cursed Blood Brew
+		Tooltip: ""
+	}
+
+	CrystalFlask: {
+		DisplayName: Crystal Flask
+		Tooltip: ""
+	}
+
+	MythrilFlask: {
+		DisplayName: Mythril Flask
+		Tooltip: ""
+	}
+
+	ChlorophyteFlask: {
+		DisplayName: Chlorophyte Flask
+		Tooltip: ""
+	}
+
+	ExplosiveFlask: {
+		DisplayName: Explosive Flask
+		Tooltip: ""
+	}
+
+	MagneticFlask: {
+		DisplayName: Magnetic Flask
+		Tooltip: ""
+	}
+
+	PhantomFlask: {
+		DisplayName: Phantom Flask
+		Tooltip: ""
+	}
+
+	SplittingFlask: {
+		DisplayName: Splitting Flask
+		Tooltip: ""
+	}
+
+	StarfallFlask: {
+		DisplayName: Starfall Flask
+		Tooltip: ""
+	}
+
+	ScrollofThePhoenix: {
+		DisplayName: Scrollof The Phoenix
+		Tooltip: ""
+	}
+
+	ScrollOfFortune: {
+		DisplayName: Scroll Of Fortune
+		Tooltip: ""
+	}
+
+	ScrollOfHealing: {
+		DisplayName: Scroll Of Healing
+		Tooltip: ""
+	}
+
+	ScrollOfProtection: {
+		DisplayName: Scroll Of Protection
+		Tooltip: ""
+	}
+
+	ScrollOfThePhoenix: {
+		DisplayName: Scroll Of The Phoenix
+		Tooltip: ""
+	}
+
+	ScrollOfDestruction: {
+		DisplayName: Scroll Of Destruction
+		Tooltip: ""
+	}
+
+	ScrollOfTheAbyss: {
+		DisplayName: Scroll Of The Abyss
+		Tooltip: ""
+	}
+
+	GolemsCurseBrew: {
+		DisplayName: Golems Curse Brew
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	ToxicCloudProjectile.DisplayName: Toxic Cloud
+	ToxicCloudProjectileBackgroundVariant.DisplayName: Toxic Cloud
+	ToxicElixirProjectile.DisplayName: Toxic Elixir
+	BaseCloudProjectile.DisplayName: Base Cloud Projectile
+	CursedBee.DisplayName: Cursed Bee
+	CursedBeeElixirProjectile.DisplayName: Cursed Bee Elixir Projectile
+	CursedBeeBrewProjectile.DisplayName: Cursed Bee Brew Projectile
+	ToxicBrewProjectile.DisplayName: Toxic Brew Projectile
+	BaseBrewProjectile.DisplayName: Base Brew Projectile
+	FrostburnCloudProjectile.DisplayName: Frostburn Cloud Projectile
+	FrostburnCloudProjectileBackgroundVariant.DisplayName: Frostburn Cloud Projectile Background Variant
+	FrostburnBrewProjectile.DisplayName: Frostburn Brew Projectile
+	SnakeBiteCloudProjectile.DisplayName: Snake Bite Cloud Projectile
+	SnakeBiteCloudProjectileBackgroundVariant.DisplayName: Snake Bite Cloud Projectile Background Variant
+	SnakeBiteBrewProjectile.DisplayName: Snake Bite Brew Projectile
+	FallingStarModified.DisplayName: Falling Star Modified
+	LavaTrailProjectile.DisplayName: Lava Trail Projectile
+	FungiMinion.DisplayName: Fungi Minion
+	MoltenBrewProjectile.DisplayName: Molten Brew Projectile
+	MoltenCloudProjectile.DisplayName: Molten Cloud Projectile
+	MoltenCloudProjectileBackgroundVariant.DisplayName: Molten Cloud Projectile Background Variant
+	MoltenBrewSpread.DisplayName: Molten Brew Spread
+	CursedBloodBrewProjectile.DisplayName: Cursed Blood Brew Projectile
+	CursedBloodBrewSpread.DisplayName: Cursed Blood Brew Spread
+	BigExplosion.DisplayName: Big Explosion
+	ClusterGrenade.DisplayName: Cluster Grenade
+	ClusterGrenadeShard.DisplayName: Cluster Grenade Shard
+	SmallExplosion.DisplayName: Small Explosion
+	ProtectionCircle.DisplayName: Protection Circle
+	DestructionCircle.DisplayName: Destruction Circle
+	MeteorProjectile.DisplayName: Meteor Projectile
+	AbyssalCircle.DisplayName: Abyssal Circle
+	GolemsCurseProjectile.DisplayName: Golems Curse Projectile
+	GolemsCurseSpread.DisplayName: Golems Curse Spread
+}
+
+DamageClasses.WitchClass.DisplayName: witch damage
+
+Buffs: {
+	SnakeBiteDebuff: {
+		DisplayName: Snake Bite Debuff
+		Description: Mods.witchclass.Buffs.SnakeBiteDebuff.Description
+	}
+
+	CursedBlood: {
+		DisplayName: Cursed Blood
+		Description: Mods.witchclass.Buffs.CursedBlood.Description
+	}
+
+	CursedBloodDebuff: {
+		DisplayName: Cursed Blood Debuff
+		Description: Mods.witchclass.Buffs.CursedBloodDebuff.Description
+	}
+
+	CurseOfTheBeesDebuff: {
+		DisplayName: Curse Of The Bees Debuff
+		Description: Mods.witchclass.Buffs.CurseOfTheBeesDebuff.Description
+	}
+
+	MoltenBrew: {
+		DisplayName: Molten Brew
+		Description: Mods.witchclass.Buffs.MoltenBrew.Description
+	}
+
+	GolemsCurse: {
+		DisplayName: Golems Curse
+		Description: Mods.witchclass.Buffs.GolemsCurse.Description
+	}
+}
+
+NPCs.FungiHelper.DisplayName: Fungi Helper

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xWb8adSmmPE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\malte\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\witchclass\\witchclass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\malte\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
